@@ -1,0 +1,27 @@
+
+/* Este css es para la carta o menú*/
+
+
+body{
+    background-color: rgb(122, 0, 0);   
+}
+
+.container-fluid {
+    background-color:  rgb(122, 0, 0);
+   }
+   
+   .colorFila1 .col{
+       background-color: rgb(224, 224, 224);
+   }
+   
+   .colorFila2 .col{
+       background-color:  rgb(224, 224, 224);
+   }
+   
+   .colorFila3 .col{
+       background-color:  rgb(255, 255, 255);
+   }
+   
+   .colorFila4 .col{
+    background-color:  rgb(255, 255, 255);
+}
