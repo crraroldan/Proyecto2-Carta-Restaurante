@@ -13,8 +13,8 @@ Este proyecto ha sido bastante tedioso debido a la cantidad de códigos que hab�
 A continuación tres imágenes de muestra de como se tendría que ver la pagina.
 
 
-![Parte1](./img/parte1)
+![Parte1](./img/parte1.PNG)
 
-![Parte1](./img/parte2)
+![Parte2](./img/parte2.PNG)
 
-![Parte1](./img/parte3)
+![Parte3](./img/parte3.PNG)
